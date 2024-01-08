@@ -1,0 +1,7 @@
+data/features/charades/**
+data/dataset/**
+data/processed/**
+**.log
+**.t7
+events.out.tfevents.**
+*.pyc
