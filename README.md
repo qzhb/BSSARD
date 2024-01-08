@@ -26,7 +26,9 @@ Download the word embeddings from [here](http://nlp.stanford.edu/data/glove.840B
 
 ## Quick Start
 
-If you want to use features which was extracted by C3D, please change video_feature_dim as 4096.
+If you want to use features which was extracted by C3D, please change video_feature_dim as 4096. 
+
+The pre-trained model weigths are provuded in [Baidu](https://pan.baidu.com/s/1V35SfR9etbq38xJzEAehGQ) passward: 'az0j' or [Google Drive](https://drive.google.com/drive/folders/1hyO-bj1e3dS6R3bwnTgcLC6drb63kvV6)
 
 ### Charades-CD
 
